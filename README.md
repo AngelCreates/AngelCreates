@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/palak-kumari-7b4023231/**
 - <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://preview.redd.it/8vsbxgguv3461.png?auto=webp&s=7e1369e1c5204f240c6e6883183e92c4fa89feac">
+ <source media="(prefers-color-scheme: light)" srcset="https://preview.redd.it/8vsbxgguv3461.png?auto=webp&s=7e1369e1c5204f240c6e6883183e92c4fa89feac">
+ <img alt="Heya" src="https://preview.redd.it/8vsbxgguv3461.png?auto=webp&s=7e1369e1c5204f240c6e6883183e92c4fa89feac">
 </picture>
