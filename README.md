@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Job search website**
 
-- 💬 Ask me about **HTML, CSS, CPP, Python, DSA**
+- 💬 Ask me about **HTML, CSS, CPP, Python, DSA, React.Js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/palak-kumari-7b4023231/**
 - <picture>
