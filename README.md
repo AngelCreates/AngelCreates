@@ -4,7 +4,7 @@ Currently, I am pursuing my B.Tech in Software Engineering from Delhi Technologi
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-palakkumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palak-kumari-7b4023231/)](https://www.linkedin.com/in/palak-kumari-7b4023231/)
-[![Instagram Badge](https://img.shields.io/badge/-sahilduhan.exe-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sahilduhan.exe/)](https://instagram.com/sahilduhan.exe)
+[![Instagram Badge](https://img.shields.io/badge/-_palak_.04-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_palak_.04/)](https://instagram.com/_palak_.04)
 [![Gmail Badge](https://img.shields.io/badge/-duhan.sahil16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duhan.sahil16@gmail.com)](mailto:duhan.sahil16@gmail.com)
 
 
