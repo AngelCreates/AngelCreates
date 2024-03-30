@@ -15,7 +15,8 @@ Currently, I am pursuing my B.Tech in Software Engineering from Delhi Technologi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AngelCreates&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AngelCreates&theme=nightowl&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AngelCreates&theme=nightowl&hide_border=false) 
+----
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCreates&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
