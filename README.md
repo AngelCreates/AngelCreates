@@ -1,6 +1,6 @@
 # I am Palak, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Currently, I am pursuing my B.Tech in Software Engineering from Delhi Technological University. I am a tech enthusiast. And open to collaborate on projects and innovative ideas. Find out more about me & feel free to connect with me here.
+Currently, I am pursuing my B.Tech in Software Engineering from Delhi Technological University. I am a tech enthusiast. And open to collaborate on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-palakkumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/palak-kumari-7b4023231/)](https://www.linkedin.com/in/palak-kumari-7b4023231/)
